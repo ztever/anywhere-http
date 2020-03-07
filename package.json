@@ -1,6 +1,6 @@
 {
   "name": "anywhere-http",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "app.js",
   "bin": {
     "anyHttp": "bin/anyHttp"
@@ -9,7 +9,8 @@
   "author": "ztever <478081538@qq.com>",
   "license": "MIT",
   "dependencies": {
-    "handlebars": "^4.6.0"
+    "handlebars": "^4.6.0",
+    "yargs": "^15.1.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.15.0",
@@ -19,7 +20,6 @@
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-node": "^11.0.0",
     "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-standard": "^4.0.1",
-    "yargs": "^15.1.0"
+    "eslint-plugin-standard": "^4.0.1"
   }
 }
