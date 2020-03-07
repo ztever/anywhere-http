@@ -4,4 +4,4 @@
 
 npm i -g anywhere-http
 
-anyHttp
+anyHttp -port -hostname

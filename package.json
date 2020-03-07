@@ -1,6 +1,6 @@
 {
   "name": "anywhere-http",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "app.js",
   "bin": {
     "anyHttp": "bin/anyHttp"
@@ -8,6 +8,9 @@
   "repository": "git@github.com:ztever/anywhere-http.git",
   "author": "ztever <478081538@qq.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node index"
+  },
   "dependencies": {
     "handlebars": "^4.6.0",
     "yargs": "^15.1.0"
