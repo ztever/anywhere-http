@@ -12,7 +12,7 @@
     "start": "node index"
   },
   "dependencies": {
-    "handlebars": "^4.6.0",
+    "handlebars": "^4.7.7",
     "yargs": "^15.1.0"
   },
   "devDependencies": {
